@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-page{
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    border: 1px solid red;
+}
